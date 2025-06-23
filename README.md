@@ -1,5 +1,5 @@
 1. Скачать этот репозиторий вручную или клонировать через гит:
-   git clone https://github.com/rakhat617/task_manager_drf
+   git clone https://github.com/Alexseyxxx/task_manager_dz
 2. Зайти через терминал в корень скачанного проекта и активировать виртуальное окружение:
    python -m venv env
    
